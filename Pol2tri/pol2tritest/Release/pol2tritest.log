@@ -1,0 +1,42 @@
+﻿生成启动时间为 2017/9/8 17:40:22。
+     1>项目“E:\练习\Pol2tri\pol2tritest\pol2tritest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>test.cpp(517): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(519): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(524): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(585): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(535): warning C4102: “std”: 未引用的标签
+     1>test.cpp(259): warning C4101: “pEnd”: 未引用的局部变量
+     1>test.cpp(599): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(615): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(914): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(916): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(938): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(944): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(946): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(970): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(987): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(994): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(996): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1004): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1052): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1059): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1061): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1069): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1142): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1198): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1228): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1246): warning C4018: “<”: 有符号/无符号不匹配
+     1>test.cpp(1227): warning C4101: “temp”: 未引用的局部变量
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\练习\Pol2tri\Release\pol2tritest.exe" /INCREMENTAL:NO /NOLOGO OpenThreads.lib osg.lib osgDB.lib osgUtil.lib osgGA.lib osgViewer.lib osgText.lib Triangulation.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\练习\Pol2tri\Release\pol2tritest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\练习\Pol2tri\Release\pol2tritest.lib" /MACHINE:X86 /SAFESEH Release\test.obj
+         正在生成代码
+         已完成代码的生成
+         pol2tritest.vcxproj -> E:\练习\Pol2tri\Release\pol2tritest.exe
+     1>已完成生成项目“E:\练习\Pol2tri\pol2tritest\pol2tritest.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.50

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pol2tri", "Pol2tri\Pol2tri.vcxproj", "{AF0D5D85-4246-4EE3-8AFE-B697FEE16B01}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pol2tritest", "pol2tritest\pol2tritest.vcxproj", "{09C37A70-1E58-453E-984F-F713B33D3156}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0D5D85-4246-4EE3-8AFE-B697FEE16B01}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF0D5D85-4246-4EE3-8AFE-B697FEE16B01}.Debug|Win32.Build.0 = Debug|Win32
+		{AF0D5D85-4246-4EE3-8AFE-B697FEE16B01}.Release|Win32.ActiveCfg = Release|Win32
+		{AF0D5D85-4246-4EE3-8AFE-B697FEE16B01}.Release|Win32.Build.0 = Release|Win32
+		{09C37A70-1E58-453E-984F-F713B33D3156}.Debug|Win32.ActiveCfg = Debug|Win32
+		{09C37A70-1E58-453E-984F-F713B33D3156}.Debug|Win32.Build.0 = Debug|Win32
+		{09C37A70-1E58-453E-984F-F713B33D3156}.Release|Win32.ActiveCfg = Release|Win32
+		{09C37A70-1E58-453E-984F-F713B33D3156}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

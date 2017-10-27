@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/10/13 17:16:04。
+     1>项目“E:\练习\PolygonOverlay\PolygonOverlay\PolygonOverlay.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PolygonOverlay.cpp
+         PolygonOverlay.cpp
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(351): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(404): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(409): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(464): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1250): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1717): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1719): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1729): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1732): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1736): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\练习\polygonoverlay\polygonoverlay\polygonoverlay.cpp(1739): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\练习\PolygonOverlay\Debug\PolygonOverlay.exe" /INCREMENTAL /NOLOGO geos_c.lib geos.lib OpenThreadsd.lib osgd.lib osgDBd.lib osgUtild.lib osgGAd.lib osgViewerd.lib osgTextd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\练习\PolygonOverlay\Debug\PolygonOverlay.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\练习\PolygonOverlay\Debug\PolygonOverlay.lib" /MACHINE:X86 Debug\PolygonOverlay.obj
+         PolygonOverlay.vcxproj -> E:\练习\PolygonOverlay\Debug\PolygonOverlay.exe
+     1>已完成生成项目“E:\练习\PolygonOverlay\PolygonOverlay\PolygonOverlay.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.41

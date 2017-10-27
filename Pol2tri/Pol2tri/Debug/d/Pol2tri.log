@@ -1,0 +1,31 @@
+﻿生成启动时间为 2017/7/18 17:07:13。
+     1>项目“E:\练习\Pol2tri\Pol2tri\Pol2tri.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\d\Pol2tri.pch" /Fo"Debug\d\\" /Fd"Debug\d\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\d\Pol2tri.pch" /Fo"Debug\d\\" /Fd"Debug\d\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt advancing_front.cc cdt.cc Pol2tri.cpp shapes.cc sweep.cc sweep_context.cc
+         sweep_context.cc
+         sweep.cc
+         shapes.cc
+         Pol2tri.cpp
+         cdt.cc
+         advancing_front.cc
+         正在生成代码...
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\d\\" /Fd"Debug\d\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\练习\Pol2tri\Debug\Pol2tri.dll" /INCREMENTAL /NOLOGO OpenThreadsd.lib osgd.lib osgDBd.lib osgUtild.lib osgGAd.lib osgViewerd.lib osgTextd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\练习\Pol2tri\Debug\Pol2tri.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\练习\Pol2tri\Debug\Pol2tri.lib" /MACHINE:X86 /DLL Debug\d\advancing_front.obj
+         Debug\d\cdt.obj
+         Debug\d\dllmain.obj
+         Debug\d\Pol2tri.obj
+         Debug\d\shapes.obj
+         Debug\d\stdafx.obj
+         Debug\d\sweep.obj
+         Debug\d\sweep_context.obj
+         Pol2tri.vcxproj -> E:\练习\Pol2tri\Debug\Pol2tri.dll
+     1>已完成生成项目“E:\练习\Pol2tri\Pol2tri\Pol2tri.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.20

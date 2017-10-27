@@ -1,0 +1,36 @@
+﻿生成启动时间为 2017/9/4 15:01:14。
+     1>项目“E:\练习\Pol2tri\Pol2tri\Pol2tri.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pol2tri.vcxproj, Trangulation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Triangulationd.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Triangulationd.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt advancingfront.cpp cdt.cpp Pol2tri.cpp shapes.cpp sweep.cpp sweep_line.cpp
+         sweep_line.cpp
+         sweep.cpp
+         shapes.cpp
+         Pol2tri.cpp
+         cdt.cpp
+         advancingfront.cpp
+         正在生成代码...
+         D:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D POL2TRI_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         D:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\练习\Pol2tri\Debug\Triangulationd.dll" /INCREMENTAL /NOLOGO OpenThreadsd.lib osgd.lib osgDBd.lib osgUtild.lib osgGAd.lib osgViewerd.lib osgTextd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"Source.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\练习\Pol2tri\Debug\Triangulationd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\练习\Pol2tri\Debug\Triangulationd.lib" /MACHINE:X86 /DLL Debug\advancingfront.obj
+         Debug\cdt.obj
+         Debug\dllmain.obj
+         Debug\Pol2tri.obj
+         Debug\shapes.obj
+         Debug\stdafx.obj
+         Debug\sweep.obj
+         Debug\sweep_line.obj
+            正在创建库 E:\练习\Pol2tri\Debug\Triangulationd.lib 和对象 E:\练习\Pol2tri\Debug\Triangulationd.exp
+         Pol2tri.vcxproj -> E:\练习\Pol2tri\Debug\Triangulationd.dll
+       PostBuildEvent:
+         copy ..\Debug\Trangulationd.dll ..\pol2tritest
+         :VCEnd
+         已复制         1 个文件。
+     1>已完成生成项目“E:\练习\Pol2tri\Pol2tri\Pol2tri.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.59
